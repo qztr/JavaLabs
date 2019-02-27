@@ -57,6 +57,7 @@ public class Main {
                     sum[k + 1] = b;
                 }
             }
+         /// где-то здесь ошибка =)
             /*for (j = 0; j < 3; j++) {
                 b = mas[k][j];
                 mas[k][j] = mas[k + 1][j];
