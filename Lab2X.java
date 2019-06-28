@@ -4,7 +4,7 @@
  */
 import java.util.*;
 
-// Marat edited checked
+
 
 public class program2dot27 {
     public static void main(String[] args) {
